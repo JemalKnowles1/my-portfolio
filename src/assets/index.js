@@ -25,6 +25,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import airforce from "./company/airforce.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,6 +53,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  airforce,
   meta,
   shopify,
   starbucks,
