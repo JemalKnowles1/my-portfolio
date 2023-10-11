@@ -25,6 +25,7 @@ import {
   shopify,
   carrent,
   unity,
+  weather,
   jobit,
   tripguide,
   threejs,
@@ -153,10 +154,10 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Jan 2018 - August 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Proficient in delivering Identity, Credential, and Access Management (ICAM) services for Department of Defense (DoD) personnel, utilizing DISA Purebred Solution, BlackBerry UEM, PKI/E Tools, MFA, and ECA for secure website and application access. Proficient in analyzing ICAM data flow charts to ensure interoperability across the DoD enterprise.",
+      "Collaborated alongside team and third parties to assign the correct permissions to users utilizing RBAC methods and greatest privilege.",
+      "Worked as subject matter expert for implementation of BlackBerry UEM servers providing systems troubleshooting, configuration and keep-up of systems administration via user set-up and security protocols for over 2k DoD personnel maintaining full capabilities of UEM server",
+      "Oversaw training of 27 Cyber Security Admins using Sharepoint and step by step solutions to expedite competency",
     ],
   },
   // {
@@ -224,25 +225,25 @@ const projects = [
     source_code_link: "https://github.com/KAR-Uplift-Unity/Uplift",
   },
   {
-    name: "Job IT",
+    name: "Weather App",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Weather App created using React JS, here we get the current Weather data using API from OpenWeatherMap and display the weather information like Temperature,  Weather condition, Humidity and Wind Speed according to the city in this Weather app",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "OpenWeatherAPI",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "TailwindCSS",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: weather,
+    source_code_link: "https://github.com/JemalKnowles1/weather-app",
   },
   {
     name: "Trip Guide",

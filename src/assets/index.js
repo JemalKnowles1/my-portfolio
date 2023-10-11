@@ -21,6 +21,8 @@ import aws from "./tech/aws.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import vscode from "./tech/vscode.png";
+import java from "./tech/java.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -34,6 +36,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import unity from "./unity.png";
+import weather from "./weather.png";
 
 export {
   logo,
@@ -50,6 +53,8 @@ export {
   git,
   html,
   javascript,
+  java,
+  vscode,
   mongodb,
   nodejs,
   reactjs,
@@ -68,5 +73,6 @@ export {
   unity,
   carrent,
   jobit,
+  weather,
   tripguide,
 };
