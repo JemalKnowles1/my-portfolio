@@ -37,6 +37,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import unity from "./unity.png";
 import weather from "./weather.png";
+import cloud from "./cloud.png";
 
 export {
   logo,
@@ -75,4 +76,5 @@ export {
   jobit,
   weather,
   tripguide,
+  cloud,
 };

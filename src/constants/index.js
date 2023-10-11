@@ -26,6 +26,7 @@ import {
   carrent,
   unity,
   weather,
+  cloud,
   jobit,
   tripguide,
   threejs,
@@ -246,25 +247,25 @@ const projects = [
     source_code_link: "https://github.com/JemalKnowles1/weather-app",
   },
   {
-    name: "Trip Guide",
+    name: "AWS Cloud Infrastructure as Code Demos",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Through a series of Terraform and Kubernetes-based demonstrations, I've effectively showcased my profiecency in Infrastructure as Code (IaC). Notable examples of my work encompass the precision in provisioning IAM users with distinct administrative roles, precisely defined and managed through Terraform configurations. Additionally, I've implemented Kubernetes Horizontal and Vertical Pod Autoscaling using Terraform.",
     tags: [
       {
-        name: "nextjs",
+        name: "Terraform",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Kubernetes",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Automation",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: cloud,
+    source_code_link: "https://github.com/JemalKnowles1/terraform-on-aws-eks",
   },
 ];
 
