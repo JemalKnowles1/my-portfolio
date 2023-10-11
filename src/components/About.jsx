@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+       I am a highly skilled and motivated military veteran and full-stack software developer 
+       with hands-on experience conducting Tactical Communications Operations across Air Force Material Command. 
+       Strong background in IT Support, Deployed Systems Administration, IT assets management, 
+       software implementation and AWS Cloud Computing. Excited to utilize my comprehensive expertise in full-stack software development to make valuable contributions to your organization,
+        while designing solutions that improve the overall user experience and foster business expansion.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
