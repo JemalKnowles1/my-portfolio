@@ -56,9 +56,8 @@ const Experience = () => {
     <h2 className={styles.sectionHeadText}>
       Work Experience.
     </h2>
+</motion.div>
 
-
-  </motion.div>
   <div class='mt-20 flex flex-col'
   >
     <VerticalTimeline>

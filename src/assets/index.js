@@ -17,6 +17,7 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
+import aws from "./tech/aws.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
@@ -26,10 +27,13 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import airforce from "./company/airforce.png"
+import apex from "./company/apex.png"
+import codeup from "./company/codeup.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import unity from "./unity.png";
 
 export {
   logo,
@@ -50,14 +54,18 @@ export {
   nodejs,
   reactjs,
   redux,
+  aws,
   tailwind,
   typescript,
   threejs,
   airforce,
+  apex,
+  codeup,
   meta,
   shopify,
   starbucks,
   tesla,
+  unity,
   carrent,
   jobit,
   tripguide,

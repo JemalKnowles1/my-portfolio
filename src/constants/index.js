@@ -5,6 +5,7 @@ import {
   web,
   javascript,
   typescript,
+  aws,
   html,
   css,
   reactjs,
@@ -18,9 +19,12 @@ import {
   airforce,
   meta,
   starbucks,
+  apex,
+  codeup,
   tesla,
   shopify,
   carrent,
+  unity,
   jobit,
   tripguide,
   threejs,
@@ -73,10 +77,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  // {
-  //   name: "TypeScript",
-  //   icon: typescript,
-  // },
+  {
+    name: "AWS",
+    icon: aws,
+  },
   {
     name: "React JS",
     icon: reactjs,
@@ -119,8 +123,8 @@ const experiences = [
   {
     title: "Full Stack Developer Intern",
     company_name: "Codup LLC",
-    icon: starbucks,
-    iconBg: "#383E56",
+    icon: codeup,
+    iconBg: "#FFFFFF",
     date: "April 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -132,8 +136,8 @@ const experiences = [
   {
     title: "Cloud Engineer",
     company_name: "Apex Systems",
-    icon: tesla,
-    iconBg: "#E6DEDD",
+    icon: apex,
+    iconBg: "#43546a",
     date: "August 2022  - April 2023",
     points: [
       "Implemented AWS user provisioning for EKS administration using Terraform, enabling fine-tuned control with distinct roles for Admin and Basic users.",
@@ -146,7 +150,7 @@ const experiences = [
     title: "System Administrator",
     company_name: "United States Air Force",
     icon: airforce,
-    iconBg: "#383E56",
+    iconBg: "#FFFFFF",
     date: "Jan 2018 - August 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -199,25 +203,25 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "UpliftUnity",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
       {
-        name: "react",
+        name: "Java",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "MySql",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: unity,
+    source_code_link: "https://github.com/KAR-Uplift-Unity/Uplift",
   },
   {
     name: "Job IT",
