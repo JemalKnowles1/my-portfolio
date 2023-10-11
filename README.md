@@ -3,7 +3,7 @@
 
 
 
-             Kofi Knowles - Full Stack Engineer
+                                                                 Kofi Knowles - Full Stack Engineer
 
 ## About
 Hi, I'm Kofi! I'm a cloud focused full-stack engineer with a passion for creating 3D visuals, user interfaces, and web applications. I'm dedicated to delivering efficient, scalable, and user-friendly solutions to real-world problems. Let's work together to bring your ideas to life!
