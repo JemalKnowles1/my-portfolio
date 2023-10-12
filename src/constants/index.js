@@ -207,7 +207,7 @@ const projects = [
   {
     name: "UpliftUnity",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "UpliftUnity is a platform where people from diverse backgrounds can come together to explore stories, delve into the life experiences of others, gaining valuable insights. Openly Share Struggles feel comfortable sharing your own challenges and personal journeys. Build supportive connections with a compassionate community that not only listens but also offers support and understanding.",
     tags: [
       {
         name: "Java",
